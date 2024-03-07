@@ -45,4 +45,5 @@ Vous travaillez sur le déploiement d'une application composée de microservices
 
 ## Bonus 
 
-Refaites l'étape 5 sans intervention manuelle en utilisant un pipeline ou un outil d'automatisation.
+- Refaites l'étape 5 sans intervention manuelle en utilisant un pipeline ou un outil d'automatisation.
+- Sécurisez l'accès à la base de donnée à l'aide d'un mot de passe que vous allez créer avec l'objet `secret` de Kuberenetes.
